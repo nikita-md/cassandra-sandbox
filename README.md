@@ -18,5 +18,5 @@
 
 ```sql
 cqlsh> INSERT INTO tech_talk.posts (author_id, body, type, uuid) VALUES (1, 'some text 1', 0, 11153456346);
-cqlsh> SELECT * FROM posts;
+cqlsh> SELECT * FROM tech_talk.posts;
 ```
