@@ -12,7 +12,7 @@
 
 ### run cqlsh session
 
-* `docker-compose run --rm cassandra cqlsh cassandra
+* `docker-compose run --rm cassandra cqlsh cassandra`
 
 ### execute queries
 
